@@ -1,0 +1,65 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Basic_OS  ",
+      "color": {
+        "a": 1,
+        "rgb": 12712881
+      }
+    },
+    {
+      "query": "tag:#fundaMentalsNode  ",
+      "color": {
+        "a": 1,
+        "rgb": 14570208
+      }
+    },
+    {
+      "query": "tag:#FS_Module  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#data_Representation  ",
+      "color": {
+        "a": 1,
+        "rgb": 46079
+      }
+    },
+    {
+      "query": "tag:#terminial  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#Buffers  ",
+      "color": {
+        "a": 1,
+        "rgb": 16753152
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -1.7,
+  "nodeSizeMultiplier": 2.21822916666667,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.541666666666667,
+  "repelStrength": 20,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.1552714967922964,
+  "close": true
+}
