@@ -1,4 +1,4 @@
-#Buffers
+ #Buffers
 Whatever So far we had learned it's based on JS concepts, we had  run it  in `Node.js` as well in `Browser.` Likewise Typed Array is also the concept JS, and can work in both -
 and `Node.js` uses Type Array, but for what purpose ? 
 
@@ -59,7 +59,7 @@ Because these arrays are kind <font color="#c0504d">most specific</font>, means 
 
 ---
 Till now we have seen how do we create `Typed Arrays` but we haven`t` see yet how we can manipulate data with it - as in case of Data View we had different functions for manipulation in `Array Buffer. `
-Here, we can simply perform manipulations by treating a `TypedArray` as a regular array. However, due to this ease of use, we have to compromise on the fine-grained level of control over the `ArrayBuffer`, which is usually available when using `DataView`.
+Here, we can simply perform manipulations by treating a `TypedArray` as a regular array. However, due to this ease of use, we had to compromise on the fine-grained level of control over the `ArrayBuffer`, which is usually available when using `DataView`.
 
 #### How do we `Manuplate` Data of `ArrayBuffers` Using `TypedArray`
 

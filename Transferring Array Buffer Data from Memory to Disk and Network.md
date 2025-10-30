@@ -109,7 +109,6 @@ for now you don`t` have to worried about that code we will discuss about it in t
 Another Important thing is using the `fetch()` over `localhost:3000` you can use access that `ArrayBuffer` whatever we passes to the network -
 
 ```js
-fetch('http://localhost:3000/').then((res) => res.arrayBuffer()).then((data) => {
-    console.log(data); //Now we can do everything with this ArrayBuffer whatever we did it earlier
+fetch('http://localhost:3000/').then((res) => res.arrayBuffer()).then((data) => {console.log(data)} //Now we can do everything with this ArrayBuffer whatever we did it earlier
 ```
 #### [[Buffer in Node.js]]

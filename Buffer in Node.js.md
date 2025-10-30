@@ -63,7 +63,6 @@ console.log(uint8Array.toString()); //82,111,98,105,110
 
 ---
 
-
 Now the Question is what is the differences in the `ArrayBuffer` that is created behind the seen by these Syntaxes :
 
 ```js
