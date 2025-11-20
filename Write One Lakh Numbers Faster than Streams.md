@@ -1,4 +1,4 @@
-
+#Streams
 `This code open/close file for the multiple time for writing each time`
 ```js
 import fs from "fs";
