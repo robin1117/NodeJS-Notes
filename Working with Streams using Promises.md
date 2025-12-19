@@ -90,3 +90,6 @@ await fileHandle.close();
 | 4️⃣  | Close File          | `await fileHandle.close()`       |
 
 ✅ **Tip:** Always close the file handle after use to prevent resource leaks.
+
+
+[[How Browsers use Streams]]

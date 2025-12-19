@@ -65,7 +65,3 @@ fs.closeSync(fd)
 console.timeEnd() //default: 42.859ms
 ```
 
-
-```js
-
-```

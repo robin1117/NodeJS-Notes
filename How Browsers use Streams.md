@@ -117,4 +117,5 @@ server.listen(4000, "localhost", () => {
 ✅ **Conclusion:**  
 Browsers and Node.js servers both rely on **streams** for efficient, scalable, and memory-friendly data handling — enabling features like live streaming, buffering, and progressive rendering.
 
-  
+
+[[Streams in JavaScript]]

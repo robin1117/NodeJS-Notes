@@ -65,3 +65,5 @@ As we know `appendFile()` and `writFile()` opens and close file for each write.
 
 - First Reason is it opens the for once and write and write whatever then only it close the file
 - Second Reason is it Uses internal buffer `(fast)` before writing over HDD  
+
+[[File Descriptor]]

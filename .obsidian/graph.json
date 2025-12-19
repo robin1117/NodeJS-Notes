@@ -2,55 +2,55 @@
   "collapse-filter": false,
   "search": "",
   "showTags": false,
-  "showAttachments": true,
+  "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Basic_OS  ",
-      "color": {
-        "a": 1,
-        "rgb": 12712881
-      }
-    },
-    {
-      "query": "tag:#fundaMentalsNode  ",
-      "color": {
-        "a": 1,
-        "rgb": 14570208
-      }
-    },
-    {
-      "query": "tag:#FS_Module  ",
+      "query": "tag:#Express  ",
       "color": {
         "a": 1,
         "rgb": 14701138
       }
     },
     {
-      "query": "tag:#data_Representation  ",
+      "query": "tag:#NetworkingCoreNodeJS  ",
       "color": {
         "a": 1,
-        "rgb": 46079
+        "rgb": 14725458
       }
     },
     {
-      "query": "tag:#terminial  ",
+      "query": "tag:#Networking  ",
       "color": {
         "a": 1,
-        "rgb": 5431473
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "tag:#Networking  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
       }
     },
     {
       "query": "tag:#Buffers  ",
       "color": {
         "a": 1,
-        "rgb": 16753152
+        "rgb": 5431473
       }
     },
     {
-      "query": "tag:#EventDriven  ",
+      "query": "tag:#FS_Module  ",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    },
+    {
+      "query": "tag:#data_Representation  ",
       "color": {
         "a": 1,
         "rgb": 5395168
@@ -60,27 +60,34 @@
       "query": "tag:#Streams  ",
       "color": {
         "a": 1,
-        "rgb": 9240320
+        "rgb": 11621088
       }
     },
     {
-      "query": "tag:#Networking  ",
+      "query": "tag:#EventDriven  ",
       "color": {
         "a": 1,
-        "rgb": 16711680
+        "rgb": 14701233
+      }
+    },
+    {
+      "query": "tag:#fundaMentalsNode  ",
+      "color": {
+        "a": 1,
+        "rgb": 2752721
       }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": -1.2,
-  "nodeSizeMultiplier": 3.26458333333333,
+  "textFadeMultiplier": 0.7,
+  "nodeSizeMultiplier": 2.49895833333333,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
-  "centerStrength": 0.541666666666667,
-  "repelStrength": 20,
+  "centerStrength": 0.416666666666667,
+  "repelStrength": 9.27083333333333,
   "linkStrength": 1,
-  "linkDistance": 250,
-  "scale": 0.08317427407101319,
+  "linkDistance": 30,
+  "scale": 1.6530677801067961,
   "close": false
 }

@@ -7,7 +7,7 @@ They allow processing data **chunk by chunk** without loading the entire content
 Readable Streams help us **read data in real-time** from sources like files, APIs, or network sockets.
   
 ---
-## ⚙️ Common Stream Methods
+## ⚙️ Common Methods on stream
 
 | Method                     | Description                                                                                               |
 | -------------------------- | --------------------------------------------------------------------------------------------------------- |

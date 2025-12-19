@@ -115,8 +115,4 @@ The `PATH` variable tells the shell where to look for executable files when you 
 
 We’ll discuss the `PATH` environment variable in detail in future lectures.
 
-
-
-
-
 #Basic_OS

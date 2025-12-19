@@ -73,5 +73,5 @@ readStream.on("end", () => {
 ```
 
 - ⭐ In the Above example the way we are using `writeStream.write()` which not the correct ! , it take time less , but with high memory consumption.  because here we are not handling Backpressure
-- In the next video we will see how do we implement `Backpressure`
+- In the next part we will see how do we implement `Backpressure`
 - [[Backpressure and Internal Buffer of Writable Streams]]

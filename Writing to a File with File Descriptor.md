@@ -84,3 +84,5 @@ fs.closeSync(fd);
 | `fs.open()` / `fs.openSync()`   | Opens a file and returns its file descriptor |
 | `fs.write()` / `fs.writeSync()` | Writes data to the file using the descriptor |
 | `fs.close()` / `fs.closeSync()` | Closes the file descriptor after operation   |
+
+[[Write One Lakh Numbers Faster than Streams]]

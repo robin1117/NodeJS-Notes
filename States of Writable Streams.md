@@ -45,7 +45,7 @@ writeStream.write("c");
 
 // writeStream.end(); //This close the stream but not gauranteed internal buffer is cleared !
 
-console.log(writeStream.writableEnded); //This whows wheather stream is cosed or not !
+console.log(writeStream.writableEnded); //This shows wheather stream is cosed or not !
 
 console.log(writeStream.writableFinished); // this represent wheather data is flushed or not from internal buffer !
 

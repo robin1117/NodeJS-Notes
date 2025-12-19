@@ -37,7 +37,7 @@ const stream = fs.createReadStream("./video.mp4", {
 - `highWaterMark`: Size of each chunk in bytes.  
   Default = **64 KB** for files.
 
-## 🎧 5. Important Events of Readable Streams
+## 🎧 5. Important Events on Readable Streams
 
 | Event     | Description                                |
 | --------- | ------------------------------------------ |

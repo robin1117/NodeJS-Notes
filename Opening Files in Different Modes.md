@@ -57,4 +57,7 @@ fs.closeSync(fd);
 - Default mode: `"r"` (read-only).  
 - `"+"` → Adds both **read and write** access.  
 - `"w"` / `"a"` → Create file if it doesn’t exist.  
-- Always **close FDs** to free resources after use.
+- Always **close FDs** to free resources after use
+
+
+[[Writing to a File with File Descriptor]]

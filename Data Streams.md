@@ -116,3 +116,4 @@ childprocess.stdout.pipe(writeStream)
 ```
 
 
+[[Piping and Redirection of Data Streams]]

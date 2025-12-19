@@ -35,6 +35,7 @@ With streams:
 - [[Writable Streams]] — streams you can write data to (e.g., `fs.createWriteStream`).  
 - **Duplex** — both readable and writable (e.g., network sockets).  
 - **Transform** — a duplex stream that can modify data as it is read/written (e.g., compression).
+- [[Data Streams]]
 
 ## 📃 Types of Streams in Node.js
   
@@ -69,6 +70,6 @@ Transform streams are a special type of duplex stream in which the **output is a
 - Streams preserve Node.js non-blocking, low-memory advantages for I/O-heavy tasks.
 
 
-
+[[Writing One Lakh Numbers]]
 
 

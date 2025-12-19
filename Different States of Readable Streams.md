@@ -45,12 +45,13 @@ readStream.on("data", (chunk) => { // 2
   if (readStream.bytesRead == 4) {
     fs.writeFile("paused.txt", chunk, (e, d) => {});
   }
+  
   fs.appendFile("paused.txt", chunk, (e, d) => {});
   
   console.log("Stream is Reading And Writing");  
- readStream.pause();
+  readStream.pause();
 
- setTimeout(() => {
+setTimeout(() => {
      readStream.resume();
    }, 1000);
 });

@@ -60,6 +60,7 @@ stream.on("readable", () => {
 
 
 #### If you want automatic data events:
+
 ```js
 import fs from "fs";
 
