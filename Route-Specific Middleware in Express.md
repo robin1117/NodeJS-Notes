@@ -118,7 +118,6 @@ const checkAdmin = (req, res, next) => {
 };
 
 app.use("/admin", checkAdmin);
-
 ```
 
 - Protects **all `/admin` routes**

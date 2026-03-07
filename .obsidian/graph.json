@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
   "search": "",
-  "showTags": false,
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -27,67 +27,18 @@
         "a": 1,
         "rgb": 11657298
       }
-    },
-    {
-      "query": "tag:#Networking  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431378
-      }
-    },
-    {
-      "query": "tag:#Buffers  ",
-      "color": {
-        "a": 1,
-        "rgb": 5431473
-      }
-    },
-    {
-      "query": "tag:#FS_Module  ",
-      "color": {
-        "a": 1,
-        "rgb": 5419488
-      }
-    },
-    {
-      "query": "tag:#data_Representation  ",
-      "color": {
-        "a": 1,
-        "rgb": 5395168
-      }
-    },
-    {
-      "query": "tag:#Streams  ",
-      "color": {
-        "a": 1,
-        "rgb": 11621088
-      }
-    },
-    {
-      "query": "tag:#EventDriven  ",
-      "color": {
-        "a": 1,
-        "rgb": 14701233
-      }
-    },
-    {
-      "query": "tag:#fundaMentalsNode  ",
-      "color": {
-        "a": 1,
-        "rgb": 2752721
-      }
     }
   ],
-  "collapse-display": true,
+  "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 0.7,
-  "nodeSizeMultiplier": 2.49895833333333,
-  "lineSizeMultiplier": 5,
+  "textFadeMultiplier": 0.5,
+  "nodeSizeMultiplier": 1.75885416666667,
+  "lineSizeMultiplier": 3.8515625,
   "collapse-forces": false,
-  "centerStrength": 0.416666666666667,
-  "repelStrength": 9.27083333333333,
+  "centerStrength": 0.317708333333333,
+  "repelStrength": 8.4375,
   "linkStrength": 1,
   "linkDistance": 30,
-  "scale": 1.6530677801067961,
-  "close": false
+  "scale": 1.6530677801067954,
+  "close": true
 }

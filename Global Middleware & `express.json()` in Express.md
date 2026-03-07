@@ -175,10 +175,7 @@ req.body = { name: "Devin", age: 25 };
 3. Always call `next()` unless response is sent
 4. One middleware runs until it calls `next()`
 
-  
-
 ---
-
 
 ## 🧠 Interview-Ready Summary
 

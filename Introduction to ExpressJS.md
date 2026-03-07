@@ -68,7 +68,6 @@ const server = app.listen(5000, () => {
 
 ## 🧠 Express vs NestJS (Quick Note)
 
-
 - **ExpressJS**
   - Minimal and flexible
   - Full control over project structure
