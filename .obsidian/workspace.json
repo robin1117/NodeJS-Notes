@@ -8,63 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "63f5f8ee8e5e9ad7",
+            "id": "05b293c46f025889",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MongoB Backup and RestoreD.md",
+                "file": "Enabling Authentication in MongoDB Server.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MongoB Backup and RestoreD"
+              "title": "Enabling Authentication in MongoDB Server"
             }
           },
           {
-            "id": "0a0c2441b8d9baeb",
+            "id": "95b2233d87c0e95d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "MongoDB Backup and Restore.md",
+                "file": "Additional MongoDB Roles Not Covered in the Previous List.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MongoDB Backup and Restore"
-            }
-          },
-          {
-            "id": "ff9b97dfbdb24903",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "MongoDB Export and Import.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "MongoDB Export and Import"
-            }
-          },
-          {
-            "id": "20b59a694e9e6827",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "When to Use what.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "When to Use what"
+              "title": "Additional MongoDB Roles Not Covered in the Previous List"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 371.5
+    "width": 200
   },
   "right": {
     "id": "6715e910ef37a9b3",
@@ -211,8 +183,14 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "20b59a694e9e6827",
+  "active": "95b2233d87c0e95d",
   "lastOpenFiles": [
+    "Common MongoDB Roles and Their Meanings.md",
+    "Additional MongoDB Roles Not Covered in the Previous List.md",
+    "2026-04-22.md",
+    "Enabling Authentication in MongoDB Server.md",
+    "Networking Intro.md",
+    "Streams in JavaScript.md",
     "When to Use what.md",
     "MongoDB Export and Import.md",
     "MongoDB Backup and Restore.md",
@@ -233,12 +211,6 @@
     "DataTypes in MongoDB.md",
     "Delete Operation in MongoDB.md",
     "Update Operation in MongoDB.md",
-    "Making File storage App Express.md",
-    "Read Operation in MongoDB.md",
-    "Create Operation in MongoDB.md",
-    "Mongo Shell.md",
-    "Introduction to MongoDB.md",
-    "Types of Databases.md",
     "Stash/Pasted image 20250728114539.png",
     "Untitled",
     "Stash/Pasted image 20250801230305.png",

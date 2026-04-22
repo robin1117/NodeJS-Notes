@@ -1,13 +1,10 @@
 ### `mongodump`/`mongorestore` vs. `mongoexport`/`mongoimport`
 
-
 Both sets of commands are used for **backup and data transfer** in MongoDB, but they serve different purposes. Below is a comparison to help you choose the right tool for your needs.
 
-  
 ---
 
 ## **1. `mongodump` and `mongorestore` (Binary Backup & Restore)**
-
 
 ### ✅ **Use when:**
 
@@ -22,7 +19,6 @@ Both sets of commands are used for **backup and data transfer** in MongoDB, but 
 - `mongodump` can **export an entire database** or even **multiple databases**, while `mongoexport` can only export **one collection at a time**.
 
   
-
 ### ❌ **Avoid when:**
 
 - You need data in a **human-readable** format (JSON or CSV).
@@ -78,3 +74,6 @@ Both sets of commands are used for **backup and data transfer** in MongoDB, but 
 
 - **If you need a full, fast backup & restore → Use `mongodump` / `mongorestore`.**
 - **If you need to share, filter, or human-readable data → Use `mongoexport` / `mongoimport`.**
+
+
+[[ Enabling Authentication in MongoDB Server]]
