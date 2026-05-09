@@ -54,3 +54,6 @@ MongoDB has several other built-in roles that may be useful in specific use case
   
 
 These roles provide additional control in **specialized MongoDB deployments**. 🚀
+
+
+[[# Enabling Authentication in MongoDB Replica Set]]
