@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "b7548bd00752c058",
+        "id": "929eb1131b9354f1",
         "type": "tabs",
         "children": [
           {
-            "id": "c5ab4bb1611202c1",
+            "id": "e1b1e8855ed6bf0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Mongoose Query Buffering Queries Wait for Database Connection.md",
+                "file": "Mongoose Query and Query Chaining.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Mongoose Query Buffering Queries Wait for Database Connection"
-            }
-          },
-          {
-            "id": "678f539c545feec5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Schema and Types in Mongoose.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Schema and Types in Mongoose"
+              "title": "Mongoose Query and Query Chaining"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -93,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 427.5
   },
   "right": {
     "id": "6715e910ef37a9b3",
@@ -183,15 +168,21 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "678f539c545feec5",
+  "active": "e1b1e8855ed6bf0c",
   "lastOpenFiles": [
+    "CRUD Operation Using Mongoose.md",
+    "Mongoose Documents.md",
+    "Mongoose Query and Query Chaining.md",
+    "Thenable Objects.md",
     "Schema and Types in Mongoose.md",
-    "Mongoose Query Buffering Queries Wait for Database Connection.md",
     "Introduction to Mongoose and Models.md",
     "Views Explained Creating and Managing User Interfaces.md",
     "Controllers in Action Organizing Your Application Logic.md",
-    "Serving Static Files using Express.md",
     "MVC Architecture.md",
+    "Mongoose Query Buffering Queries Wait for Database Connection.md",
+    "2026-01-02.md",
+    "Read Operation in MongoDB.md",
+    "Serving Static Files using Express.md",
     "MongoDB Backup and Restore.md",
     "Stash/Pasted image 20260507205326.png",
     "Additional MongoDB Roles Not Covered in the Previous List.md",
@@ -207,12 +198,6 @@
     "Networking Intro.md",
     "Streams in JavaScript.md",
     "kj.md",
-    "MongoB Backup and RestoreD.md",
-    "Understanding Path Traversal Vulnerability.md",
-    "Understanding One-to-One, One-to-Many, and Many-to-Many Relationships.md",
-    "Embedded vs. Referenced Documents.md",
-    "Relational vs Non-Relational Databases Key Differences.md",
-    "What Are Transactions in Database.md",
     "Stash/Pasted image 20250728114539.png",
     "Stash/Pasted image 20250801230305.png",
     "Stash/Pasted image 20251119113449.png",

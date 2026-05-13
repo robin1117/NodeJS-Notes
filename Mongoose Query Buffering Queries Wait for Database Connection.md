@@ -1,7 +1,6 @@
 # Mongoose Query Behavior
 
   
-
 ## Connection Dependency
 
 - No query is executed until Mongoose is connected to the database.
