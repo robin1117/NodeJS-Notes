@@ -18,7 +18,7 @@ In this state, the stream buffers all written data until it is explicitly uncork
 
 ```js
   console.log(stream.writableCorked); // 0 means not corked, > 0 means corked
-  ```
+
 ## 3. Ended State
 
 This state occurs when the `end()` method is called and the stream has been signaled to end, meaning no further writes can be made, <font color="#ffff00">but it doesn't guarantee that all data has been flushed yet.</font>
@@ -33,7 +33,7 @@ This state occurs when the `end()` method is called and all data has been flushe
 
 ## Example
 
-```js
+
 import fs from "fs";
 
 let writeStream = fs.createWriteStream("new.txt");

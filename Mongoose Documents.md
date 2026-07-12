@@ -107,3 +107,6 @@ await user.updateOne({ $set: { age: 35 } }); // ✅ Updates MongoDB
 | **`.isModified()`**  | Checks if a field has been modified                      | `console.log(user.isModified("email"));`  |
 | **`.populate()`**    | Populates referenced fields                              | `await user.populate("posts");`           |
 | **`.validate()`**    | Manually triggers schema validation                      | `await user.validate();`                  |
+
+
+[[Adding Custom Validation in Mongoose Schema]]
