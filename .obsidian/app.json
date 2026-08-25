@@ -1,6 +1,6 @@
 {
   "alwaysUpdateLinks": true,
-  "readableLineLength": true,
+  "readableLineLength": false,
   "pdfExportSettings": {
     "pageSize": "Letter",
     "landscape": false,
@@ -8,5 +8,5 @@
     "downscalePercent": 100
   },
   "showLineNumber": false,
-  "showInlineTitle": true
+  "showInlineTitle": false
 }

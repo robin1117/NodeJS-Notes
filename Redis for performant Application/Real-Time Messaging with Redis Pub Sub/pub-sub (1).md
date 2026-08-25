@@ -1,3 +1,4 @@
+#redis
 # 📡 Pub/Sub in Computer Science and Redis
 
 ## 🔹 What is Pub/Sub?

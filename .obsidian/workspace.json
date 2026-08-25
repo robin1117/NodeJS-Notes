@@ -4,39 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "beb9ddf327d9175f",
+        "id": "422db07f79a7426b",
         "type": "tabs",
         "children": [
           {
-            "id": "de509a9c222edca2",
+            "id": "d99358b131fb65b0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Redis for performant Application/Using Redis for Caching.md",
+                "file": "Deploying/Creating GitHub Repository for StorageApp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Using Redis for Caching"
-            }
-          },
-          {
-            "id": "95036376b80087a6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Redis for performant Application/more-redis-topics.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "more-redis-topics"
+              "title": "Creating GitHub Repository for StorageApp"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -56,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byModifiedTime",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -68,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#MVC",
+                "query": "securingApplication",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -93,7 +80,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 306.5
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "6715e910ef37a9b3",
@@ -183,44 +171,48 @@
       "canvas:Create new canvas": false
     }
   },
-  "active": "95036376b80087a6",
+  "active": "d99358b131fb65b0",
   "lastOpenFiles": [
-    "Redis for performant Application/Exploring Redis Cloud.md",
-    "Untitled.md",
-    "Redis for performant Application/more-redis-topics.md",
-    "Redis for performant Application/Using Redis for Caching.md",
-    "Redis for performant Application/Connecting Redis in Node.js.md",
-    "Untitled",
+    "RazorPay/Loading Razorpay CDN Script Dynamically.md",
+    "Deploying/Creating GitHub Repository for StorageApp.md",
+    "Deploying",
+    "RazorPay/Custom Checkout in Razorpay.md",
+    "RazorPay/Securing Razorpay Order Creation.md",
+    "RazorPay/Integrating Razorpay in React and Node.js.md",
+    "RazorPay/Working with Node.js SDK of Razorpay.md",
+    "RazorPay/Calling Razorpay API Using Fetch with Basic Auth.md",
+    "RazorPay/Using the Razorpay API A Complete Guide.md",
+    "RazorPay/Different States of Payment in Razorpay.md",
+    "RazorPay/What are Orders in Razorpay.md",
+    "RazorPay/Receiving Payments Using Code in Razorpay.md",
+    "Securing our NodeJs Application/Understanding Reflected XSS Attack/Understanding Reflected XSS Attack.md",
     "Redis for performant Application/Enabling Authentication in Redis/auth-in-redis.md",
-    "Redis for performant Application/eviction-policies.md",
-    "Redis for performant Application/Real-Time Messaging with Redis Pub Sub/pub-sub (1).md",
-    "Redis for performant Application/Enabling Authentication in Redis/app (4).mjs",
-    "Redis for performant Application/Enabling Authentication in Redis",
-    "Streams in JavaScript.md",
-    "kj.md",
-    "Redis for performant Application/pub-sub.md",
-    "Redis for performant Application/Real-Time Messaging with Redis Pub Sub/app (3).mjs",
-    "Redis for performant Application/Real-Time Messaging with Redis Pub Sub",
-    "Redis for performant Application/Working with Redis Hashes/hash-datatype.md",
-    "Redis for performant Application/Working with Redis Hashes/hash-commands.js",
-    "Redis for performant Application/Working with Redis Hashes",
-    "Redis for performant Application/set-datatype.md",
-    "Redis for performant Application/list-datatype.md",
-    "Redis for performant Application/keys-vs-scan.md",
-    "Redis for performant Application/Understanding SCAN Command in Redis/scan-command.md",
-    "Redis for performant Application/fuzzy-search.md",
-    "Redis for performant Application/Understanding SCAN Command in Redis/app (2).mjs",
-    "Redis for performant Application/Understanding SCAN Command in Redis",
-    "Redis for performant Application/Understanding Redis Search and Indexing/redis-search.md",
-    "Redis for performant Application/Understanding Redis Search and Indexing/redis-numeric-search-ranges.md",
-    "Redis for performant Application/Working with RedisJSON Data Type/RedisJSON-commands.md",
-    "Redis for performant Application/setting-expiry-for-keys.md",
-    "Redis for performant Application/database-management-in-redis.md",
-    "Redis for performant Application/string-commands-in-redis.md",
-    "Redis for performant Application/introduction-to-redis.md",
-    "Redis for performant Application/redis-datatypes.md",
-    "Redis for performant Application/Redis vs MongoDB Speed Test.md",
-    "Redis for performant Application/Understanding Redis Search and Indexing/redis-search.js",
+    "RazorPay",
+    "AWS S3 Storage/Showing Size of Each File.md",
+    "AWS S3 Storage",
+    "Securing our NodeJs Application/types-of-xss-attacks.md",
+    "Securing our NodeJs Application/Fix XSS Vulnerability Using DOMPurify/Preventing XSS.md",
+    "Securing our NodeJs Application/Hacking the Web Learn XSS Attacks Practically/xss-attack-methods.md",
+    "Securing our NodeJs Application/Hacking the Web Learn XSS Attacks Practically/what-is-xss.md",
+    "Securing our NodeJs Application/Understanding Same-Origin Policy/same-origin-policy.md",
+    "Securing our NodeJs Application/Schema-Based Data Validation with Zod.md",
+    "Securing our NodeJs Application/Understanding SQL Injection Vulnerability.md",
+    "Securing our NodeJs Application/Using .env File in Node.js Natively/understanding-env-file.md",
+    "Securing our NodeJs Application/Using .env File in Node.js Natively/what-to-put-in-env-file.md",
+    "Securing our NodeJs Application/Understanding Top-Level Navigation/top-level-navigation.md",
+    "Securing our NodeJs Application/why-security-is-important.md",
+    "Securing our NodeJs Application/Creating Self-Signed HTTPS Server in Node.js/create-https-server.md",
+    "Securing our NodeJs Application/Creating Self-Signed HTTPS Server in Node.js/package.json",
+    "Securing our NodeJs Application/Creating Self-Signed HTTPS Server in Node.js/app.js",
+    "Securing our NodeJs Application/Creating Self-Signed HTTPS Server in Node.js",
+    "Securing our NodeJs Application/Understanding Top-Level Navigation/networking.png",
+    "Securing our NodeJs Application/Understanding Top-Level Navigation/index.html",
+    "Securing our NodeJs Application/Understanding Top-Level Navigation/about.html",
+    "Securing our NodeJs Application/Understanding Top-Level Navigation/20_understanding-top-level-navigation-starter/networking.png",
+    "Securing our NodeJs Application/Understanding Top-Level Navigation/20_understanding-top-level-navigation-starter/index.html",
+    "Securing our NodeJs Application/Understanding Top-Level Navigation/20_understanding-top-level-navigation-starter/about.html",
+    "Securing our NodeJs Application/Understanding Content Security Policy in Depth/public/img.png",
+    "Securing our NodeJs Application/Understanding Content Security Policy in Depth/public/XSS-Comment.png",
     "Untitled.canvas",
     "Stash/path array.png",
     "Stash/Pasted image 20251119113752.png",
@@ -228,10 +220,6 @@
     "Stash/Pasted image 20250728114539.png",
     "Stash/Pasted image 20250801230305.png",
     "Stash/Pasted image 20251119113449.png",
-    "Stash/base65.drawio.svg",
-    "Stash/Pasted image 20250902111941.png",
-    "Stash/Pasted image 20250903114540.png",
-    "Untitled 1.canvas",
-    "Stash/Pasted image 20250901114944.png"
+    "Untitled 1.canvas"
   ]
 }

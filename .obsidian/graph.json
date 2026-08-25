@@ -8,44 +8,23 @@
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "tag:#Express  ",
+      "query": "tag:#securingApplication  ",
       "color": {
         "a": 1,
         "rgb": 14701138
-      }
-    },
-    {
-      "query": "tag:#NetworkingCoreNodeJS  ",
-      "color": {
-        "a": 1,
-        "rgb": 14725458
-      }
-    },
-    {
-      "query": "tag:#Networking  ",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "tag:#AuthenticationVsAuthorization  ",
-      "color": {
-        "a": 1,
-        "rgb": 16711867
       }
     }
   ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": 1.5,
-  "nodeSizeMultiplier": 2.14166666666667,
+  "textFadeMultiplier": -1.8,
+  "nodeSizeMultiplier": 5,
   "lineSizeMultiplier": 5,
   "collapse-forces": false,
-  "centerStrength": 0.380208333333333,
-  "repelStrength": 7.8125,
+  "centerStrength": 0.207024390243902,
+  "repelStrength": 18.3022140597898,
   "linkStrength": 1,
-  "linkDistance": 64,
-  "scale": 1.6530677801067961,
+  "linkDistance": 258,
+  "scale": 0.01718658907507051,
   "close": false
 }
